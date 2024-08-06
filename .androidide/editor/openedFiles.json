@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/android background task/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 33,
+          "index": 593,
+          "line": 15
+        },
+        "start": {
+          "column": 33,
+          "index": 593,
+          "line": 15
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/android background task/app/src/main/java/id/pras/androidbackgroundtask/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 46,
+          "index": 1189,
+          "line": 36
+        },
+        "start": {
+          "column": 46,
+          "index": 1189,
+          "line": 36
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/android background task/app/src/main/java/id/pras/androidbackgroundtask/MainActivity.java"
+}
