@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android background task"
 
-include(":app")
+include(":thread",":service","foreground_service",":accessibility_service")
