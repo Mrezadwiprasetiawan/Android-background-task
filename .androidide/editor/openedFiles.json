@@ -19,13 +19,13 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/android background task/foreground_service/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 43,
-          "index": 849,
+          "column": 41,
+          "index": 847,
           "line": 40
         },
         "start": {
-          "column": 43,
-          "index": 849,
+          "column": 41,
+          "index": 847,
           "line": 40
         }
       }
@@ -61,5 +61,5 @@
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/android background task/accessibility_service/build.gradle.kts"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/android background task/foreground_service/build.gradle.kts"
 }
