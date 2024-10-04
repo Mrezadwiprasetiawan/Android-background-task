@@ -38,7 +38,7 @@ android {
     }
     
     dependencies{
-      implementation("androidx.core:core:1.15.0-beta01")
+      implementation("androidx.core:core:1.13.+")
     }
     
 }

@@ -1,62 +1,17 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/android background task/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 306,
-          "line": 10
-        },
-        "start": {
-          "column": 0,
-          "index": 306,
-          "line": 10
-        }
-      }
-    },
-    {
       "file": "/storage/emulated/0/AndroidIDEProjects/android background task/foreground_service/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 41,
-          "index": 847,
+          "column": 47,
+          "index": 853,
           "line": 40
         },
         "start": {
-          "column": 41,
-          "index": 847,
+          "column": 47,
+          "index": 853,
           "line": 40
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/android background task/accessibility_service/.gitignore",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/android background task/accessibility_service/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
         }
       }
     }
